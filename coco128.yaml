@@ -1,0 +1,6 @@
+train: D:\Vinod-Work\Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates\train\images
+val: D:\Vinod-Work\Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates\val\images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
